@@ -1,0 +1,26 @@
+{
+  "name": "p2paiwebapi",
+  "version": "1.0.0",
+  "description": "p2pAI web api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EtienneDel/p2pAIWebApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EtienneDel/p2pAIWebApi/issues"
+  },
+  "homepage": "https://github.com/EtienneDel/p2pAIWebApi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.2.1",
+    "graphql-tools": "^4.0.4"
+  }
+}
